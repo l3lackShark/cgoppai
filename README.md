@@ -1,2 +1,5 @@
 # cgoppai
-oppai-ng bindings for golang
+
+WIP
+
+Docs will be here at some point
